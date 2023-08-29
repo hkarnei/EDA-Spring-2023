@@ -1,2 +1,2 @@
-# EDA-Spring2023
-ENV872 - Environmental Data Analytics - Spring 2023
+# EDA-Fall2023
+ENV872 - Environmental Data Analytics - Fall 2023
